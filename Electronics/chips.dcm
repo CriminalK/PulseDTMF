@@ -1,5 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM386M-1
+D LM386, Low Voltage Audio Power Amplifier
+K LM386
+F http://www.ti.com/lit/ds/symlink/lm386.pdf
+$ENDCMP
+#
+$CMP LM386MM-1
+D LM386, Low Voltage Audio Power Amplifier
+K LM386
+F http://www.ti.com/lit/ds/symlink/lm386.pdf
+$ENDCMP
+#
+$CMP LM386N-1
+D LM386, Low Voltage Audio Power Amplifier
+K LM386
+F http://www.ti.com/lit/ds/symlink/lm386.pdf
+$ENDCMP
+#
 $CMP MSP430G2230ID
 D MSP430G2230, 8pin PDIP, 2KB + 256B Flash Memory, 128B RAM
 K MSP430 MIXED SIGNAL MICROCONTROLLER
